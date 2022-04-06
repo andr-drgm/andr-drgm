@@ -1,3 +1,6 @@
+# Hi
+## I'm Andrei
+
 - 👋 Hi, I’m Andrei
 - 👀 I’m interested in developing apps
 - 🌱 I’m currently learning Web3
