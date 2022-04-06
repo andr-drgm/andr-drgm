@@ -7,6 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/adrw_eu" target="blank"><img src="https://img.shields.io/twitter/follow/adrw_eu?logo=twitter&style=for-the-badge" alt="adrw_eu" /></a> </p>
 
+- 🌱 I’m currently learning **Web3🛸**
+
+- 👨‍💻 All of my projects are available at [https://adrw-eu.herokuapp.com/projects/](https://adrw-eu.herokuapp.com/projects/)
+
+- 📝 I regularly write articles on [https://adrw-eu.herokuapp.com/blog/](https://adrw-eu.herokuapp.com/blog/)
+
+- 💬 Ask me about **Blockchain**
+
+- 📫 How to reach me **dragomirandy900@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/10z8Na7ruuXu8DTpoSTYZxy_z3j2aVg5cqm1tgUfjRIU/edit?usp=sharing](https://docs.google.com/document/d/10z8Na7ruuXu8DTpoSTYZxy_z3j2aVg5cqm1tgUfjRIU/edit?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adrw_eu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adrw_eu" height="30" width="40" /></a>
