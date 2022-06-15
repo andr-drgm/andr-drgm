@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andr-drgm" alt="andr-drgm" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/adrw_eu" target="blank"><img src="https://img.shields.io/twitter/follow/adrw_eu?logo=twitter&style=for-the-badge" alt="adrw_eu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/adrw_dev" target="blank"><img src="https://img.shields.io/twitter/follow/adrw_eu?logo=twitter&style=for-the-badge" alt="adrw_eu" /></a> </p>
 
 - 🌱 I’m currently learning **Web3🛸**
 
