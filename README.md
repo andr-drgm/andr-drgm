@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Web3🛸**
 
-- 👨‍💻 All of my projects are available at [https://adrw-eu.herokuapp.com/projects/](https://adrw-eu.herokuapp.com/projects/)
+- 👨‍💻 All of my projects are available at [https://adrw.com/projects/](https://adrw.com/projects/)
 
-- 📝 I regularly write articles on [https://adrw-eu.herokuapp.com/blog/](https://adrw-eu.herokuapp.com/blog/)
+- 📝 I regularly write articles on [https://adrw.com/blog/](https://adrw.com/blog/)
 
 - 💬 Ask me about **Blockchain**
 
