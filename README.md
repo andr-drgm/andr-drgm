@@ -25,7 +25,7 @@ Hi, I’m Andrei – a full-stack software engineer who loves building scalable 
 - 🌐 Website: [adrw.com](https://adrw.com)  
 - 🐦 Twitter: [@adrw_dev](https://twitter.com/adrw_dev)
 - 💼 LinkedIn: [linkedin.com/in/andr-drgm](https://linkedin.com/in/andr-drgm)  
-- 📄 [My CV](https://docs.google.com/document/d/10z8Na7ruuXu8DTpoSTYZxy_z3j2aVg5cqm1tgUfjRIU/edit?usp=sharing)
+- 📄 [My CV]([https://docs.google.com/document/d/10z8Na7ruuXu8DTpoSTYZxy_z3j2aVg5cqm1tgUfjRIU/edit?usp=sharing](https://docs.google.com/document/d/1oWvo83Lpert0_aQKzIY841RTZ16taPqF/edit?usp=sharing&ouid=118093245758911462065&rtpof=true&sd=true))
 
 ---
 
