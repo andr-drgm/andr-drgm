@@ -22,7 +22,7 @@ Hi, I’m Andrei – a full-stack software engineer who loves building scalable 
 ### 📬 Contact Me
 
 - ✉️ Email: dragomirandy900@gmail.com  
-- 🌐 Website: [adrw.com](https://adrw.com)  
+- 🌐 Website: [andrei-dragomir.com](https://andrei-dragomir.com)  
 - 🐦 Twitter: [@adrw_dev](https://twitter.com/adrw_dev)
 - 💼 LinkedIn: [linkedin.com/in/andr-drgm](https://linkedin.com/in/andr-drgm)  
 - 📄 [My CV](https://docs.google.com/document/d/1oWvo83Lpert0_aQKzIY841RTZ16taPqF/edit?usp=sharing&ouid=118093245758911462065&rtpof=true&sd=true)
