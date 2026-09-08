@@ -1,77 +1,73 @@
-<h1 align="center">Hey 👋 I'm Andrei</h1>
-<h3 align="center">Remote Software Engineer | MVP Builder | Web3 Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=andr-drgm&label=Profile%20views&color=0e75b6&style=flat" alt="andr-drgm" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=180&section=header&text=Andrei%20Dragomir&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Sibiu%2C%20Romania%20%C2%B7%20Remote%2C%20CET&descAlignY=56&descSize=15" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=620&lines=Internal+platforms%2C+automation+systems%2C+MVPs;One+person+accountable+for+every+technical+call;Something+real+in+weeks+-+not+a+happy-path+demo" />
 
-### 🚀 About Me
+[![Website](https://img.shields.io/badge/andrei--dragomir.com-6366F1?style=for-the-badge&logo=safari&logoColor=white)](https://andrei-dragomir.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andr-drgm)
 
-Hi, I’m Andrei – a full-stack software engineer who loves building scalable MVPs, automating workflows, and diving deep into emerging tech like Web3 and blockchain.
-
-- 🧱 Currently working with an **excavation company in Saudi Arabia**, building a custom internal tool to streamline their operations.
-- 💡 Building a **blockchain platform** to reward open-source contributors with tokens & NFTs — in collaboration with Atti, Cata, Ale, and Bianca.
-- 🌍 Passionate about remote work, startup tech, and tools that make development cleaner and faster.
-- 🛠 I love working with **Rails, NextJs, Django, Puppeteer, Solana**, and everything in between.
-- 📚 Currently learning: **Blockchain Development**.
+</div>
 
 ---
 
-### 📬 Contact Me
+## 🧭 Working software, and someone to own the decisions behind it.
 
-- ✉️ Email: dragomirandy900@gmail.com  
-- 🌐 Website: [andrei-dragomir.com](https://andrei-dragomir.com)  
-- 🐦 Twitter: [@adrw_dev](https://twitter.com/adrw_dev)
-- 💼 LinkedIn: [linkedin.com/in/andr-drgm](https://linkedin.com/in/andr-drgm)  
-- 📄 [My CV](https://docs.google.com/document/d/1oWvo83Lpert0_aQKzIY841RTZ16taPqF/edit?usp=sharing&ouid=118093245758911462065&rtpof=true&sd=true)
+I build internal platforms, automation systems and MVPs for founders and operations teams — and take on the technical direction that comes with them: what gets built, in what order, and what it costs to live with later.
 
 ---
 
-### 💼 Projects & Blog
+## 🔨 Three I'm building right now
 
-- 🔧 My Projects: [adrw.com/projects](https://adrw.com/projects)  
-- ✍️ My Blog: [adrw.com/blog](https://adrw.com/blog)
+**🗺️ [Pastrac](https://andrei-dragomir.com/projects/pastrac/)** · `React Native` `Supabase` `iOS`
+Pin the places that matter to you — live map, notes, photos, and you choose who sees it.
+[App Store ↗](https://apps.apple.com/us/app/pastrac-app/id6754891045) · [pastrac.com ↗](https://www.pastrac.com/) · [Case study →](https://andrei-dragomir.com/projects/pastrac/)
 
----
+**⛓️ [Collaborators](https://andrei-dragomir.com/projects/collaborators/)** · `Next.js 14` `Solana` `Prisma`
+Verified GitHub activity into on-chain rewards. Maintainers set bounties, contributors get paid on review.
+[collaborators.build ↗](https://collaborators.build) · [Code ↗](https://github.com/andr-drgm/collaborators) · [Case study →](https://andrei-dragomir.com/projects/collaborators/)
 
-### 🧰 Languages & Tools
+**🩺 [Med Prep](https://andrei-dragomir.com/projects/med-prep/)** · `Rails` `Stripe` `PostgreSQL`
+The platform behind a Swiss medical-school prep school — thousands of questions, timed mocks, subscriptions.
+[medprep.ch ↗](https://www.medprep.ch/) · [Case study →](https://andrei-dragomir.com/projects/med-prep/)
 
-![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white)
+<div align="center"><a href="https://andrei-dragomir.com/projects/"><b>All projects →</b></a></div>
 
 ---
 
-### 📈 GitHub Stats
+## 📍 Three moments I'm usually called in
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andr-drgm&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andr-drgm&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andr-drgm" alt="andr-drgm" /></a> </p>
+🌱 **The idea is validated, nothing exists yet.** We agree what has to be proven, cut what doesn't serve it, and put a real version in users' hands in weeks — on foundations that hold when it works.
+
+📊 **The team has outgrown its spreadsheets.** Five tools, a dozen Excel files, no agreement on which is current. I sit with the people doing the work, then build the one system that replaces the pile.
+
+🚧 **The build has stalled, or nobody senior is steering.** A feature that won't land, a codebase that creaks. I carry the technical decisions and keep everyone else unblocked.
+
+---
+
+## ⚡ Stack
+
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-14F195?style=flat-square&logo=solana&logoColor=black)
+
+*Currently sharpening:* **Rust** 🦀 · **embedded** — ESP32, CAN bus, BLE
+
+---
+
+<div align="center">
+
+### 💬 What's slowing you down?
+
+Tell me about the thing that keeps costing you time or sleep.
+You don't need it figured out. I'll reply within a day with honest thoughts on scope, timeline, and whether I'm the right fit.
+
+[![Email](https://img.shields.io/badge/andrei.dragomir.contact@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrei.dragomir.contact@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=90&section=footer" />
+
+</div>
